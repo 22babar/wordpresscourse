@@ -1,0 +1,42 @@
+*{
+    background-color: black;
+    color: greenyellow;
+    font-weight: 400;
+}
+.drive_link{
+    background-color: skyblue;
+    color: black;
+    padding: 3px;
+    font-size: 26px;
+    font-weight: 400;
+    font-family: sans-serif;
+    /* text-decoration: none; */
+    border-radius: 10px;
+    /* border: 2px solid black; */
+    margin-top: 20px;
+    display: inline-block;
+
+}
+#name{
+    background-color: lightgreen;
+    color: black;
+    padding: 3px;
+    font-size: 26px;
+    font-weight: 400;
+    font-family: sans-serif;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-top: 20px;
+    display: inline-block;
+    position: sticky;
+    
+}
+
+td a{
+    line-height: 30px;
+    text-decoration: none   ;
+    display: flex;
+    width: 100%;
+    height: vh;
+}
